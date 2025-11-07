@@ -1,2 +1,2 @@
 # print_management
-Get printing mang
+copy "C:\path\to\start-printer-client-hidden.vbs" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\"
